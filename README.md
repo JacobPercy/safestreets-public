@@ -37,3 +37,5 @@ The companion mobile app connects to the camera system over WiFi and offers:
 - LSTM for action recognition (violence detection)
 - Flutter (mobile interface)
 - Firebase Cloud Messaging (notifications)
+
+[Slides link](https://docs.google.com/presentation/d/1romgZ6sEX0yYEVzXsRuPqnHdpOKbDmGoGemVqpUiVTc/edit?usp=sharing)
